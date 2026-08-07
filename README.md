@@ -1,3 +1,5 @@
+<h2 data-importer="text" align="left">Olá!!! eu sou o Lucas Carvalho Sabino<br><br>🔘📖Estudante de Ciências da Computação (Uni ítalo).<br>🔘📕Estudando HTML 5 CSS 3 E Java Script.</h2>
+
 ###
 
 <div data-importer="stats" align="center">
@@ -5,9 +7,13 @@
   <img src="https://streak-stats.demolab.com?user=lucas290sabino-dev&locale=en&mode=daily&theme=maroongold&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/lucas290sabino-dev/lucas290sabino-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=maroongold&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 ###
 
 <img data-importer="image" align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhzZzRlZHIwbXR1bmNvZWIzdDZpcTNrdGR6YmxxZ3czcmQyMnI0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.webp"  />
+
+###
+
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -41,6 +47,8 @@
 
 ###
 
-<p data-importer="text" align="left">Hello World!!</p>
+<p data-importer="text" align="left">Grato!!!</p>
 
 ###
+
+
